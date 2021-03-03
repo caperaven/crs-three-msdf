@@ -1,5 +1,7 @@
 # CRS MSDF
 
+IN PROGRESS
+
 ## Introduction
 
 This package borrows from three-bmfont-text located at https://github.com/Jam3/three-bmfont-text.  
